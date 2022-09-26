@@ -1,8 +1,8 @@
 # Leds | Cibele Infra
 
-
-![image](https://forthebadge.com/images/badges/built-with-love.svg)
-![image](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+![Love](https://forthebadge.com/images/badges/built-with-love.svg)
+![K8s](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ## Infrastructure of project Cibele. Orchestrated with Lightweight Kubernetes K3s
 
