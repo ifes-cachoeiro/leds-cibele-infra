@@ -1,0 +1,17 @@
+apiVersion: 
+kind: Service
+metadata:
+  name: serviceloadbalancer
+spec:
+  selector:
+    app: nginx
+  ports:
+    - protocol: TCP
+      port: 80
+      targetPort: 80
+  clusterIP: 10.43.0.2
+  type: LoadBalancer
+status:
+  loadBalancer:
+    ingress:
+      - ip: 192.0.2.127
